@@ -16,9 +16,9 @@ Functional and Pathogenic Microorganisms in Aquatic Environments
 Viral Protein Functions
 
 ## Languages
-Chinese  
+中文  
 English  
-Japanese  
+日本語  
 
 ## Contact
 lingjie@kuicr.kyoto-u.ac.jp  
