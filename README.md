@@ -19,12 +19,10 @@ Japanese
 ### Contact information
 lingjie@kuicr.kyoto-u.ac.jp
 
-### Github 活跃度
+### Github Activity
 [![](https://activity-graph.herokuapp.com/graph?username=LingjieEcoEvo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![LingjieEcoEvo's github stats](https://github-readme-stats.vercel.app/api?username=LingjieEcoEvo&show_icons=true&theme=vue)
+![LingjieEcoEvo's github stats](https://github-readme-stats.vercel.app/api?username=LingjieEcoEvo&show_icons=true&theme=default_repocard)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingjieEcoEvo&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LingjieEcoEvo&layout=compact&langs_count=6)
 <!--
 **LingjieEcoEvo/LingjieEcoEvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
